@@ -10,4 +10,4 @@ The project is organised in different folders depending on the environment setup
 
 # How to contribute
 
-This project is mainly intended for my personal exploration. If you want to suggest corrections, feel free to create a new issue or to contribute directly.
+This project is mainly intended for my personal exploration. If you want to suggest corrections, feel free to create a new issue or to contribute directly creating a new branch.
