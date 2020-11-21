@@ -12,7 +12,7 @@ Stan requires C++ compilers to be available for Python. To manage the compilers 
 After installing Miniconda, save locally the files in this folder. Open your terminal, go to this folder and run:
 
 ```
- conda create --name <selected name for your environment> --file <stan-package-list.txt>
+ conda create --name <selected name for your environment> --file "stan-package-list.txt"
 ```
 Alternatively take `stan-package-list.txt` to your chosen folder and run the previous command. This file makes sure that all the packages dependencies are handled to be able to run the notebooks.
 
