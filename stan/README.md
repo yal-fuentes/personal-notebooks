@@ -22,7 +22,7 @@ Stan code used inside the notebooks is in `./stan_code`. Make sure to mantain th
 
 # Notebooks
 
-- [Income vs emmisions](./Income_vs_emmisions.ipynb): Notebook that analyses and models the relation between income and CO2 emmisions per capita, for different countries. Analysis implements step by step Bayesian workflow.
+- [Income vs emissions](./Income_vs_emissions.ipynb): Notebook that analyses and models the relation between income and CO2 emissions per capita, for different countries. Analysis implements step by step Bayesian workflow.
 
 # Additional information
 
