@@ -4,6 +4,7 @@ This folder contains notebooks that use Stan directly or indirectly. For more in
 
 - Stan Modeling Language Users Guide and Reference Manual. https://mc-stan.org
 - Pystan documentation. https://pystan.readthedocs.org
+- Facebook Prophet https://facebook.github.io/prophet/
 
 # Getting started
 
@@ -23,6 +24,8 @@ Stan code used inside the notebooks is in `./stan_code`. Make sure to mantain th
 # Notebooks
 
 - [Income vs emissions](./Income_vs_emissions.ipynb): Notebook that analyses and models the relation between income and CO2 emissions per capita, for different countries. Analysis implements step by step Bayesian workflow.
+
+- [Temperature predictions](./Temperature_predictions.ipynb): Notebook that fetches hourly temperature information from the Finnish Metheorogical Institute (Ilmatieteenlaitos) API and predicts future temperatures for 2021 using Facebook Prophet.
 
 # Additional information
 
